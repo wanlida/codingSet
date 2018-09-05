@@ -1,6 +1,9 @@
-题目详细信息
-![image](https://github.com/wanlida/codingSet/raw/master/pictures/code1.png)
-代码
+### 题目详细信息  
+
+![image](https://github.com/wanlida/codingSet/raw/master/pictures/code1.png)  
+
+### 代码  
+
 ```
 def unzip(the_string):
     import numpy as np
